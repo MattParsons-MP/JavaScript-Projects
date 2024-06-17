@@ -1,0 +1,45 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: hsla(229, 100%, 50%, 0.164);
+}
+
+#length {
+    margin: 10px;
+    padding: 5pxpx;
+    font-size: 1.5rem;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+
+}
+
+#tickBox{
+    font-size: 1.2rem;
+    padding: 10px;
+    line-height: 30px;
+}
+
+button {
+    font-size: 2rem;
+    margin-top: 15px;
+    background-color: hsla(113, 59%, 41%, 0.884);
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: hsla(113, 59%, 41%, 0.445);
+}
+
+#textGen{
+    font-size: 2rem;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#result {
+    font-size: 2rem;
+}
